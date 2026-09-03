@@ -1,6 +1,6 @@
 # Data Structures & Algorithms — through a finance lens
 
-An ongoing collection of data structures and algorithms implemented from scratch in Python — each one applied to a real financial problem, because a stack is easier to remember when it's pricing a bond and a queue means more when it's running an order book.
+An ongoing collection of data structures and algorithms implemented from scratch in Python, each one applied to a real financial problem, because a stack is easier to remember when it's pricing a bond and a queue means more when it's running an order book.
 
 **No dependencies** — everything is standard-library Python. Every file is self-checking: run it directly and it executes a demo with assertions.
 
